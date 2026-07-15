@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Example Plugin",
+    "version": "1.0.0",
+    "iconUrl": "https://example.com/icon.png",
+    "fileUrl": "https://example.com/plugin.apk",
+    "description": "Example extension for CloudStream"
+  }
+]
